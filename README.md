@@ -1,5 +1,7 @@
 # Hello World!
 
+I'm [Aleh Kot](https://github.com/alehkot).
+
 Notable public projects:
 
 - [alehkot/android-emu-agent](https://github.com/alehkot/android-emu-agent)
